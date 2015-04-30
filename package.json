@@ -1,0 +1,23 @@
+{
+  "name": "css-color-validator",
+  "version": "0.0.1",
+  "description": "Css color validator accepting hex-string rgb/rgba format and some basic color strings (including transparent)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/**/*"
+  },
+  "keywords": [
+    "css",
+    "color",
+    "validation"
+  ],
+  "author": "Jan-Christian Nikles",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "should": "~6.0.1",
+    "mocha": "~2.2.4"
+  }
+}
