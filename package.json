@@ -20,7 +20,7 @@
     "validation"
   ],
   "author": "Jan-Christian Nikles",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "devDependencies": {
     "should": "~6.0.1",
     "mocha": "~2.2.4"
