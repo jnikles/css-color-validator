@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "description": "Css color validator accepting hex-string rgb/rgba format and some basic color strings (including transparent)",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnikles/color-color-validator.git"
+  },
+  "homepage": "https://github.com/jnikles/css-color-validator",
   "directories": {
     "test": "test"
   },
